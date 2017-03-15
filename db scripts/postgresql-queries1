@@ -1,0 +1,139 @@
+CREATE TABLE youcaring1 (s_no serial PRIMARY KEY,url_string varchar (100) NOT NULL,changefreq varchar (50) NOT NULL,priority real,last_modified_date date,url_inserted_date date);
+
+query = """INSERT INTO youcaringsample (url_string,last_modified_date,changefreq,priority,url_inserted_date) values (%s,%s,%s,%s,%s)"""
+cursor.execute(query,(loc,df_lastmod,changefreq,priority,urlentrydate)
+
+url = 'https://www.razoo.com/robots.txt'
+resp = requests.get(url)
+robotdata = resp.content
+lindex = robotdata.find('Sitemap: ') + 9
+rindex = string.find(robotdata,'\n',lindex)
+sitemapindexurl = robotdata[lindex:rindex]
+
+CREATE TABLE youcaringindex (s_no serial PRIMARY KEY,sitemap_url varchar (100) NOT NULL,last_modified_date date,url_inserted_date date)
+
+sudo -u postgres psql postgres
+
+select * from sitemaps;
+
+CREATE TABLE sitemap_index (s_no serial PRIMARY KEY,sitename varchar(100) NOT NULL, index_url varchar(100) NOT NULL);
+
+INSERT INTO sitemap_index (sitename,index_url) values ('razoo','https://guide.razoo.com/sitemap/sitemap.xml');
+
+INSERT INTO sitemap_index (sitename,index_url) values ('gofundme','https://www.gofundme.com/sitemap.xml');
+
+select index_url from sitemap_index where sitename = 
+
+"""select last_modified_date from """  + site + """_index where sitemap_url = """ + 
+
+INSERT INTO tablename (id, username, password, level, email) VALUES (1, 'John', 'qwerty', 5, 'john@mail.com') ON CONFLICT (id) DO NOTHING
+
+INSERT INTO sitemap_index (sitename,index_url) values ('krondo','http://krondo.com/sitemap.xml');
+
+update gofundme_index set last_modified_date = '2017-02-26' where s_no = 29
+
+https://www.gofundme.com/sitemaps/sitemap_marketing.xml.gz
+
+"""select s_no, url_string from """ + site + """ where url_inserted_date > '2017-02-23'"""
+
+"UPDATE" + site + " set title = %s,createdby = %s,category = %s,location = %s where s_no =%s"
+
+select count(south.type),south.type from (select * from playground where location = 'south') as south group by type;
+
+select count(week.category),week.category from (select * from gofundme where url_inserted_date > '2017-02-23') as week group by category;
+
+alter table playground alter column extra type varchar(51);
+
+
+CREATE TABLE eenadu_menu (s_no serial PRIMARY KEY,title varchar(25) NOT NULL, link varchar(100) NOT NULL);
+
+insert into eenadu_menu (title, link) values ('Andhra Pradesh','http://www.eenadu.net/andhra-pradesh-news.aspx');
+
+insert into eenadu_menu (title, link) values ('','');
+
+insert into eenadu_menu (title, link) values ('','');
+
+create table eenadu (s_no serial PRIMARY KEY,display_title varchar(50) NOT NULL, newsitem_link varchar(100) NOT NULL, image_link varchar(100) NOT NULL, classifier varchar(25),article_content varchar(100);
+
+
+
+CREATE TABLE abn (s_no serial PRIMARY KEY,title varchar(25) NOT NULL, link varchar(100) NOT NULL,sliderpage boolean default false );
+
+139.59.62.173
+
+[4:46]  
+sbns@123
+
+
+CREATE TABLE sakshi_menu (s_no serial PRIMARY KEY,title varchar(25) NOT NULL, link varchar(100) NOT NULL, sliderpage boolean default false);
+
+
+create table sakshi (s_no serial PRIMARY KEY,display_title varchar(50) NOT NULL, newsitem_link varchar(100) NOT NULL, image_link varchar(100) NOT NULL, classifier varchar(25),article_content varchar(100), url_inserted_date date );
+
+alter table sakshi alter column image_link drop not null;
+
+insert into sakshi_menu (title, link) values ('Home','http://www.sakshi.com/');
+
+SELECT setval('eenadu_s_no_seq', 1);
+
+create table tupaki (s_no serial PRIMARY KEY,display_title varchar(50) NOT NULL, newsitem_link varchar(100) NOT NULL, image_link varchar(100), classifier varchar(25),article_content varchar(100), url_inserted_date date );
+
+CREATE TABLE tupaki_menu (s_no serial PRIMARY KEY,title varchar(25) NOT NULL, link varchar(100) NOT NULL, sliderpage boolean default false);
+
+
+```posts:
+ - title:string
+ - body:text
+ - author:string
+ - creation_date:date
+ - published:boolean
+comments:
+ - author:string
+ - body:text
+ - author_url:url
+ - created_on:date
+ - approved:boolean
+authors:
+ - name:string
+ - profile:text
+ - url:url```
+
+[6:30]  
+I need the news scrapped tables in this format
+
+https://github.com/vas3k/GodMode2
+https://github.com/dpgaspar/Flask-AppBuilder
+
+
+driver	=	webdriver.PhantomJS(executable_path='<Path	to	Phantom	JS>')
+driver.get("http://pythonscraping.com/pages/javascript/redirectDemo1.html")
+waitForLoad(driver)
+print(driver.page_source)
+
+
+create table posts (s_no serial PRIMARY KEY,paper varchar(25) NOT NULL,display_title varchar(256), newsitem_link varchar(256) NOT NULL, image_link varchar(256), classifier varchar(75),article_content text, url_inserted_date date );
+
+
+insert into youcaring_index
+select *
+from dblink('dbname=postgres hostaddr=127.0.0.1 dbname=postgres user=postgres',
+            'select a,b from tableA')
+       as t1(a text,b text);
+
+pg_dump -t tupaki_menu postgres | psql insmedia
+
+CREATE TABLE samayam_menu (s_no serial PRIMARY KEY,title varchar(25) NOT NULL, link varchar(100) NOT NULL);
+
+insert into samayam_menu (title, link) values ('business','http://telugu.samayam.com/business/articlelist/56181272.cms');
+
+
+http://telugu.samayam.com/telugu-movies/articlelist/48238931.cms
+
+http://telugu.samayam.com/social/articlelist/47120416.cms
+
+http://telugu.samayam.com/latest-news/articlelist/48239026.cms
+
+http://telugu.samayam.com/sports-news/articlelist/47921077.cms
+
+http://telugu.samayam.com/business/articlelist/56181272.cms
+
