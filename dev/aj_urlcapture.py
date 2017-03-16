@@ -7,7 +7,7 @@ Created on Wed Feb 22 16:21:42 2017
 
 Use this code if you are saving records available in a sitemap link to the database
 Requirements:
-    You need an sitemap index database to be already present to save data into 
+    You need an sitemap index database to be already present to save data into
     a new database of the site index
     syntax to run the code:
         python seedsavexmldata -i 'sitemap_index_database_name'
@@ -17,6 +17,9 @@ from BeautifulSoup import BeautifulSoup as Soup
 from requests import get
 from psycopg2 import connect
 from datetime import date
+import logging
+
+logging.basicConfig(filename='aj_urlcapture.log',level=logging.DEBUG)
 
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
@@ -25,6 +28,7 @@ cursor = conn.cursor()
 today = date.today()
 
 def hotnews(page,sliderpage):
+    logging.info('entered into hotnews of aj_urlcapture')
     classifier = "hotnews"
     if not sliderpage:
         soup = Soup(page.content)
@@ -49,6 +53,7 @@ def hotnews(page,sliderpage):
         try:
             ahrefs.pop()
         except IndexError:
+            logging.error('got an IndexError in aj_urlcapture')
             return False
         del soup, div
         for a in ahrefs:
@@ -62,10 +67,11 @@ def hotnews(page,sliderpage):
             else:
                 print newsitem_link,  display_title
                 insertabn(newsitem_link, display_title,  classifier)
-        
+
     return True
 
 def slider(page,sliderpage):
+    logging.info('entered into slider function')
     if not sliderpage:
         return False
     classifier = "slider"
@@ -84,14 +90,20 @@ def slider(page,sliderpage):
     return True
 
 def insertabn(newsitem_link, display_title,  classifier):
-    paper = 'andhra jyothi'
-    query = """INSERT INTO posts (newsitem_link, display_title,
-            classifier, url_inserted_date, paper) values (%s,%s,%s,%s, %s)"""
-    cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
-    conn.commit()
+    try:
+        logging.info('entered into insertabn')
+        paper = 'andhra jyothi'
+        query = """INSERT INTO posts (newsitem_link, display_title,
+                classifier, url_inserted_date, paper) values (%s,%s,%s,%s, %s)"""
+        cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
+        conn.commit()
+
+    except:
+        logging.error('got an error in instering into database')
 
 
 def abn():
+    logging.info('this is main function')
     query = """select link,sliderpage from abn_menu""" #+ """ where s_no in (1)"""
     cursor.execute(query)
     urls = cursor.fetchall()
@@ -108,4 +120,5 @@ def abn():
     print r"Content updated to the Postgres table 'abn'"
 
 if __name__ == '__main__':
+    logging.info('calling aj_urlcapture main function')
     abn()
