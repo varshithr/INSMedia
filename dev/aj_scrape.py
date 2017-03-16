@@ -9,6 +9,8 @@ from BeautifulSoup import BeautifulSoup as Soup
 from psycopg2 import connect
 from requests import get
 import requests.packages.urllib3
+import logging
+
 requests.packages.urllib3.disable_warnings()
 
 conn = connect(database="insmedia", user="postgres",
@@ -18,7 +20,7 @@ cursor = conn.cursor()
 
 def scrape():
     #Change url_inserted_date every week here
-    query1 = """select s_no, newsitem_link from posts where 
+    query1 = """select s_no, newsitem_link from posts where
             paper = 'andhra jyothi'""" #+ """ and s_no = 827"""
     cursor.execute(query1)
     items = cursor.fetchall()
@@ -55,7 +57,7 @@ def scrape():
         print contents
         updatequery = "update abn set (display_title, article_content, image_link) = (%s,%s, %s)"
         cursor.execute(updatequery,(display_title, contents, img_url))
-        conn.commit() 
+        conn.commit()
     return True
 
 def aj_scrape():
