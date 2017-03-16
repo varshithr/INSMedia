@@ -105,7 +105,7 @@ def abn():
         result = hotnews(page,url[1])
         if not result:
              continue
-    print r"Content updated to the Postgres table 'abn'"
+    print r"Content updated to the Postgres table 'posts'"
 
 if __name__ == '__main__':
     abn()

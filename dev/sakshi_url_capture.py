@@ -113,7 +113,7 @@ def sakshi():
     result = hotnews()
     if not result:
              pass
-    print r"Content updated to the Postgres table 'sakshi'"
+    print r"Content updated to the Postgres table 'posts'"
 
 if __name__ == '__main__':
     sakshi()
