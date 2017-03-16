@@ -17,14 +17,20 @@ from BeautifulSoup import BeautifulSoup as Soup
 from requests import get
 from psycopg2 import connect
 from datetime import date
+import logging
+logging.basicConfig(filename='eenadu_urlcapture.log',level=logging.DEBUG)
 
+logging.info('trying to establish a conneciton with database')
 conn = connect(database="insmedia", user="postgres",
-                         password="scriptbees1$", host="127.0.0.1", port="5432")
+                     password="scriptbees1$", host="127.0.0.1", port="5432")
+logging.debug('conncetion establish successfully.')
 cursor = conn.cursor()
+
 url = 'http://www.eenadu.net/'
 today = date.today()
 
 def slider(page,sliderpage):
+    logging.info('entered into slider function')
 
     #url = url[0]
     #print url
@@ -43,6 +49,7 @@ def slider(page,sliderpage):
     for f in figures:
         ahrefs = f.findAll("a")
         try:
+            logging.debug('trying to scrape from eenadu_urlcapture')
             arel = ahrefs[0]
             newsitem_link = arel.get('href')
 
@@ -60,6 +67,7 @@ def slider(page,sliderpage):
             image_link, classifier, url_inserted_date) values (%s,%s,%s,%s,%s)"""
             cursor.execute(query,(newsitem_link, display_title, image_link, classifier, today))
         except IndexError:
+            logging.error('got IndexError error in eenadu_urlcapture')
             continue
         #print arel
     conn.commit()
@@ -67,7 +75,7 @@ def slider(page,sliderpage):
 
 def hotnews(page,sliderpage):
     # we didn't get a valid response, bail
-
+    logging.info('entered into hotnews function')
     classifier = 'hotnews'
     if sliderpage:
         #the following code will read the newsitems from the latest news
@@ -82,7 +90,7 @@ def hotnews(page,sliderpage):
             display_title = li.text
             print newsitem_link, display_title,  classifier
             inserteenadu(newsitem_link, display_title,  classifier)
-            
+
 
         #the following code will scrape the newsitems from the latest news list
         print "these are latest from the list"
@@ -108,10 +116,11 @@ def hotnews(page,sliderpage):
             display_title = li.text
             print newsitem_link, display_title,  classifier
             inserteenadu(newsitem_link, display_title,  classifier)
-    del soup, main    
+    del soup, main
     return True
 
 def mostread():
+    logging.info('entered into mostread function')
     url = 'http://www.eenadu.net/'
     page = get(url)
     print url
@@ -137,13 +146,20 @@ def mostread():
     return True
 
 def inserteenadu(newsitem_link, display_title,  classifier):
-    paper = 'eenadu'
-    query = """INSERT INTO posts (newsitem_link, display_title,
-            classifier, url_inserted_date, paper) values (%s,%s,%s,%s, %s)"""
-    cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
-    conn.commit()
+    try:
+        logging.info('trying to insert each row into database. ')
+        paper = 'eenadu'
+        query = """INSERT INTO posts (newsitem_link, display_title,
+                classifier, url_inserted_date, paper) values (%s,%s,%s,%s, %s)"""
+        cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
+        conn.commit()
+
+    except:
+        logging.error('got an error in inserteenadu')
+
 
 def eenadu():
+    logging.info('entered into eenadu executable function')
     query = """select link,slider_page from eenadu_menu""" #+ """ where s_no in (4)"""
     cursor.execute(query)
     urls = cursor.fetchall()
@@ -163,4 +179,5 @@ def eenadu():
     print r"Content updated to the Postgres table 'eenadu'"
 
 if __name__ == '__main__':
+    logging.debug('calling main function')
     eenadu()
