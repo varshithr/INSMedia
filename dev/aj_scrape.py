@@ -13,12 +13,17 @@ import logging
 
 requests.packages.urllib3.disable_warnings()
 
+logging.basicConfig(filename='aj_scrape',level=logging.DEBUG)
+
+logging.info('trying to estabish connection with database')
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
+logging.debug('connection estabished successfully')
 
 
 def scrape():
+    logging.info('entered scrape function')
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts where
             paper = 'andhra jyothi'""" #+ """ and s_no = 827"""
@@ -38,6 +43,7 @@ def scrape():
             display_title = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryHeadLine'}).text
             display_title = display_title.encode('utf-8')
         except AttributeError:
+            logging.error('some AttributeError got in scraping function')
             continue
         print display_title
         try:
@@ -45,6 +51,7 @@ def scrape():
             img_url = img_url.get('src')
             print img_url
         except AttributeError:
+            logging.error('some AttributeError got in scraping function')
             continue
         contents = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryDetails'}).text
         print contents
@@ -58,9 +65,11 @@ def scrape():
         updatequery = "update abn set (display_title, article_content, image_link) = (%s,%s, %s)"
         cursor.execute(updatequery,(display_title, contents, img_url))
         conn.commit()
+    logging.info('leaving scraping function')
     return True
 
 def aj_scrape():
+    logging.info('entered into aj_scrape function')
     result = scrape()
     if not result:
          print 'There was an error!'
@@ -68,4 +77,5 @@ def aj_scrape():
          print (r"scrape job for the site www.andhrajyothy.com has been done")
 
 if __name__ == '__main__':
+    logging.info('aj_scrape main function')
     aj_scrape()
