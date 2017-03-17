@@ -9,6 +9,7 @@ from BeautifulSoup import BeautifulSoup as Soup
 from psycopg2 import connect
 from requests import get
 import requests.packages.urllib3
+from requests.auth import HTTPProxyAuth
 requests.packages.urllib3.disable_warnings()
 
 conn = connect(database="insmedia", user="postgres",
@@ -20,15 +21,23 @@ def scrape():
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts where 
             paper = 'samayam' and
-            url_inserted_date = current_date""" #+ """ and s_no = 2"""
+            url_inserted_date = current_date"""# + """ and s_no = 3741"""
     cursor.execute(query1)
     items = cursor.fetchall()
     for item in items:
         s_no = item[0]
         url = item[1]
-        url = 'http://telugu.samayam.com' + url
+        if url.startswith('http'):
+            pass
+        else:
+            url = 'http://telugu.samayam.com' + url
         print s_no, url
-        page = get(url)
+        proxy_host = "proxy.crawlera.com"
+        proxy_port = "8010"
+        proxy_auth = HTTPProxyAuth("91fea83a64bf4766b238730764ebc6fc", "")
+        proxies = {"https": "https://{}:{}/".format(proxy_host, proxy_port)}
+        page = get(url, proxies=proxies, auth=proxy_auth,
+                         verify='/home/venkatesh/Desktop/scraping/crawlera-ca.crt')
         if 200 != page.status_code:
             print 'failed getting site url data ' + url
             continue
@@ -44,12 +53,12 @@ def scrape():
             img_url = img_url.get('src')
             print img_url
         except AttributeError:
-            continue
+            pass
         contents = soup.find('div', {'class':'Normal'}).text
         print contents
         updatequery = """update posts set (display_title, article_content,
-        image_link) = (%s,%s, %s) where s_no = """ + s_no
-        cursor.execute(updatequery,(display_title, contents, img_url))
+        image_link) = (%s,%s, %s) where s_no = %s"""
+        cursor.execute(updatequery,(display_title, contents, img_url, str(s_no)))
         conn.commit() 
     return True
 

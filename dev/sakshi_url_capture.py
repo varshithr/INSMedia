@@ -91,7 +91,7 @@ def hotnews():
 def insertsakshi(newsitem_link, classifier):
     paper = 'sakshi'
     query = """INSERT INTO posts (newsitem_link,classifier, 
-    url_inserted_date, paper) values (%s,%s,%s)"""
+    url_inserted_date, paper) values (%s,%s,%s,%s)"""
     cursor.execute(query,(newsitem_link,  classifier, today, paper))
     conn.commit()
 

@@ -10,6 +10,8 @@ from eenadu_scrape import eenadu_scrape
 from ga_scrape import ga_scrape
 from tupaki_scrape import tupaki_scrape
 from samayam_url_capture import samayam
+from oneindia_url_capture import oneindia
+from oneindia_url_capture import oneindia_scrape
 
 if __name__ == '__main__':
     sakshi()
@@ -18,7 +20,9 @@ if __name__ == '__main__':
     abn()
     tupaki()
     samayam()
+    oneindia()
     
+    oneindia_scrape()
     aj_scrape()
     tupaki_scrape()
     ga_scrape()

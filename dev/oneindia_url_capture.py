@@ -49,15 +49,16 @@ def scrape():
             print 'failed getting site url data ' + url
             continue
         soup = Soup(page.content)
-        contents = soup.find('div', {'class':'storydet'}).text
+        contents = soup.find('div', {'class':'ecom-ad-content'}).text
         contents = contents.encode('utf-8')
         print contents
         classifier = soup.find('div', {'class':'breadcrump clearfix'})
         classifier = classifier.get('data-category')
         classifier = classifier.encode('utf-8')
-        updatequery = """update posts set (contents, 
-        classifier) = (%s,%s) where s_no = """ + s_no
-        cursor.execute(updatequery,(contents, classifier))
+        print classifier
+        updatequery = """update posts set (article_content, 
+        classifier) = (%s,%s) where s_no = %s"""
+        cursor.execute(updatequery,(contents, classifier, str(s_no)))
         conn.commit() 
     return True
 
