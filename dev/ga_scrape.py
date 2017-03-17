@@ -48,8 +48,8 @@ def scrape():
         contents = contents[:left]
         print contents
         updatequery = """update posts set (article_content,
-        image_link) = (%s,%s, %s) where s_no = """ + s_no
-        cursor.execute(updatequery,( contents, img_url))
+        image_link) = (%s,%s) where s_no = %s"""
+        cursor.execute(updatequery,( contents, img_url, str(s_no)))
         conn.commit() 
     return True
 
