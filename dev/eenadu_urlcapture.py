@@ -63,9 +63,12 @@ def slider(page,sliderpage):
             display_title = text.find('a').string
 
             print newsitem_link, display_title, image_link, classifier, today
-            query = """INSERT INTO eenadu (newsitem_link, display_title,
-            image_link, classifier, url_inserted_date) values (%s,%s,%s,%s,%s)"""
-            cursor.execute(query,(newsitem_link, display_title, image_link, classifier, today))
+            paper = 'eenadu'
+            query = """INSERT INTO posts (newsitem_link, display_title,
+            image_link, classifier, url_inserted_date, paper) values (%s,%s,%s,
+            %s,%s,%s)"""
+            cursor.execute(query,(newsitem_link, display_title, image_link,
+                                  classifier, today, paper))
         except IndexError:
             logging.error('got IndexError error in eenadu_urlcapture')
             continue
@@ -163,9 +166,6 @@ def eenadu():
     query = """select link,slider_page from eenadu_menu""" #+ """ where s_no in (4)"""
     cursor.execute(query)
     urls = cursor.fetchall()
-    result = mostread()
-    if not result:
-             pass
     for url in urls:
         page = get(url[0])
         print url[0]
@@ -176,6 +176,9 @@ def eenadu():
         result = hotnews(page,url[1])
         if not result:
              continue
+    result = mostread()
+    if not result:
+             pass
     print r"Content updated to the Postgres table 'eenadu'"
 
 if __name__ == '__main__':

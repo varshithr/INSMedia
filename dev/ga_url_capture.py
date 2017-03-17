@@ -87,7 +87,7 @@ def ga():
         result = othernews(page)
         if not result:
              continue
-    print r"Content updated to the Postgres table 'ga'"
+    print r"Content updated to the Postgres table 'posts'"
 
 if __name__ == '__main__':
     ga()

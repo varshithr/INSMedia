@@ -1,0 +1,1031 @@
+INFO:root:calling aj_urlcapture main function
+INFO:root:this is main function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/National.aspx HTTP/1.1" 301 170
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/national.aspx HTTP/1.1" 301 165
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/national HTTP/1.1" 200 13552
+INFO:root:entered into slider function
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/Sports.aspx HTTP/1.1" 301 168
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/sports.aspx HTTP/1.1" 301 163
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/sports HTTP/1.1" 200 11654
+INFO:root:entered into slider function
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/Editorial.aspx HTTP/1.1" 301 171
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/editorial.aspx HTTP/1.1" 301 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/editorial HTTP/1.1" 200 16374
+INFO:root:entered into slider function
+INFO:root:entered into hotnews of aj_urlcapture
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/Business.aspx HTTP/1.1" 301 170
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/business.aspx HTTP/1.1" 301 165
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/business HTTP/1.1" 200 12848
+INFO:root:entered into slider function
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/AndhraPradesh.aspx HTTP/1.1" 301 175
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/andhrapradesh.aspx HTTP/1.1" 301 170
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/andhrapradesh HTTP/1.1" 200 33496
+INFO:root:entered into slider function
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/Telangana.aspx HTTP/1.1" 301 171
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/telangana.aspx HTTP/1.1" 301 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/telangana HTTP/1.1" 200 35707
+INFO:root:entered into slider function
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Pages/Chitrajyothy.aspx HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/chitrajyothy.aspx HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /pages/chitrajyothy HTTP/1.1" 200 16161
+INFO:root:entered into slider function
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET / HTTP/1.1" 200 23459
+INFO:root:entered into slider function
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into hotnews of aj_urlcapture
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:entered into insertabn
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383386 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383386 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383386 HTTP/1.1" 200 16096
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383386 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383386 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383386 HTTP/1.1" 200 16096
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383386 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383386 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383386 HTTP/1.1" 200 16115
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15172
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15201
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15374
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15105
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15371
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17037
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16694
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15159
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15188
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15374
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15105
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15369
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17028
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15160
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15166
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15194
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15184
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15196
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15412
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15112
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15392
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17062
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16697
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15181
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15199
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15415
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15112
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15398
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17060
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16697
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15196
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15412
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15113
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15392
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17060
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16706
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383212 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383212 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383212 HTTP/1.1" 200 16004
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383185 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383185 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383185 HTTP/1.1" 200 17703
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383224 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383224 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383224 HTTP/1.1" 200 19141
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15196
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15415
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15113
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383387 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383387 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383387 HTTP/1.1" 200 16091
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383383 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383383 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383383 HTTP/1.1" 200 17185
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383380 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383380 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383380 HTTP/1.1" 200 15559
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383379 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383379 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383379 HTTP/1.1" 200 20777
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15398
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383300 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383300 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383300 HTTP/1.1" 200 16812
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383274 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383274 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383274 HTTP/1.1" 200 16516
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383312 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383312 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383312 HTTP/1.1" 200 19898
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383401 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383401 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383401 HTTP/1.1" 200 17215
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15185
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383398 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383398 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383398 HTTP/1.1" 200 16212
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383391 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383391 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383391 HTTP/1.1" 200 15927
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383389 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383389 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383389 HTTP/1.1" 200 15982
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383384 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383384 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383384 HTTP/1.1" 200 20619
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383375 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383375 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383375 HTTP/1.1" 200 16901
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383395 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383395 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383395 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383395 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 500 1763
+INFO:root:leaving scraping function
+INFO:root:trying to estabish connection with database
+DEBUG:root:connection estabished successfully
+INFO:root:aj_scrape main function
+INFO:root:entered into aj_scrape function
+INFO:root:entered scrape function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15234
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15160
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15228
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383212 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383212 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383212 HTTP/1.1" 200 16023
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383185 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383185 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383185 HTTP/1.1" 200 17748
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383224 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383224 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383224 HTTP/1.1" 200 19178
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15441
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383389 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383389 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383389 HTTP/1.1" 200 16044
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383395 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383395 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383048 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383048 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383075 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383075 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383024 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383024 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 500 1763
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=383007 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=383007 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=199496 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=199496 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 500 1763
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article.aspx?SID=197720 HTTP/1.1" 301 176
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /cinema_article?SID=197720 HTTP/1.1" 302 166
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 301 199
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/cinema_article.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383395 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383395 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383395 HTTP/1.1" 200 19032
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383232 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383232 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383232 HTTP/1.1" 200 20929
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383230 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383230 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383230 HTTP/1.1" 200 21212
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383207 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383207 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383207 HTTP/1.1" 200 20369
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383303 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383303 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383303 HTTP/1.1" 200 18577
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383296 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383296 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383296 HTTP/1.1" 200 18931
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383096 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383096 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383096 HTTP/1.1" 200 17567
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383094 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383094 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383094 HTTP/1.1" 200 16404
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383098 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383098 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383098 HTTP/1.1" 200 15705
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383081 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383081 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383081 HTTP/1.1" 200 16198
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383364 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383364 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383364 HTTP/1.1" 200 17876
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383357 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383357 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383357 HTTP/1.1" 200 17478
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383172 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383172 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383172 HTTP/1.1" 200 16459
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /indiana-man-faces-latest-charge-alleging-he-hid-hiv-status-11973 HTTP/1.1" 302 216
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/indiana-man-faces-latest-charge-alleging-he-hid-hiv-status-11973.aspx HTTP/1.1" 301 249
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/indiana-man-faces-latest-charge-alleging-he-hid-hiv-status-11973.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Arogyarahasyalu-3-sametosame.ispossible-1987 HTTP/1.1" 301 195
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /arogyarahasyalu-3-sametosame.ispossible-1987 HTTP/1.1" 302 196
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/arogyarahasyalu-3-sametosame.ispossible-1987.aspx HTTP/1.1" 301 229
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/arogyarahasyalu-3-sametosame.ispossible-1987.aspx HTTP/1.1" 500 1763
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /100 HTTP/1.1" 302 155
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /ErrorPage.htm?aspxerrorpath=/100.aspx HTTP/1.1" 301 188
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /errorpage.htm?aspxerrorpath=/100.aspx HTTP/1.1" 200 961
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383401 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383401 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383401 HTTP/1.1" 200 17255
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383399 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383399 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383399 HTTP/1.1" 200 16277
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383398 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383398 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383398 HTTP/1.1" 200 16237
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383392 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383392 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383392 HTTP/1.1" 200 15752
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383391 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383391 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383391 HTTP/1.1" 200 15993
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383390 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383390 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383390 HTTP/1.1" 200 17582
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383389 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383389 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383389 HTTP/1.1" 200 16044
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383388 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383388 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383388 HTTP/1.1" 200 15509
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383387 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383387 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383387 HTTP/1.1" 200 16139
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383386 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383386 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383386 HTTP/1.1" 200 16229
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383384 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383384 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383384 HTTP/1.1" 200 20683
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383386 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383386 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383386 HTTP/1.1" 200 16214
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383384 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383384 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383384 HTTP/1.1" 200 20672
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15228
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15234
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15455
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15160
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15441
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17106
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16760
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15238
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15453
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15437
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17102
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16751
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15238
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15455
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15160
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383377 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383377 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383377 HTTP/1.1" 200 15437
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383376 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383376 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383376 HTTP/1.1" 200 17106
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383374 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383374 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383374 HTTP/1.1" 200 16751
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383397 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383397 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383397 HTTP/1.1" 200 15234
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383394 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383394 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383394 HTTP/1.1" 200 15455
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383393 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383393 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383393 HTTP/1.1" 200 15160
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383387 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383387 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383387 HTTP/1.1" 200 16139
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383383 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383383 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383383 HTTP/1.1" 200 17239
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383380 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383380 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383380 HTTP/1.1" 200 15615
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383379 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383379 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383379 HTTP/1.1" 200 20825
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383300 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383300 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383300 HTTP/1.1" 200 16837
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383274 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383274 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383274 HTTP/1.1" 200 16559
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383312 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383312 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383312 HTTP/1.1" 200 19938
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383401 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383401 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383401 HTTP/1.1" 200 17255
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383400 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383400 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383400 HTTP/1.1" 200 15228
+ERROR:root:some AttributeError got in scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383398 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383398 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383398 HTTP/1.1" 200 16225
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383391 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383391 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383391 HTTP/1.1" 200 15993
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.andhrajyothy.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /Artical.aspx?SID=383375 HTTP/1.1" 301 174
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical.aspx?SID=383375 HTTP/1.1" 301 169
+DEBUG:requests.packages.urllib3.connectionpool:http://www.andhrajyothy.com:80 "GET /artical?SID=383375 HTTP/1.1" 200 16967
+ERROR:root:some AttributeError got in scraping function
+INFO:root:leaving scraping function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 171579
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 92989
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 171619
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 92989
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /business/business-news.aspx HTTP/1.1" 200 96807
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /sports/sports.aspx HTTP/1.1" 200 98118
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /movies/latest-movie-news.aspx HTTP/1.1" 200 119548
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /andhra-pradesh-news.aspx HTTP/1.1" 200 163625
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx HTTP/1.1" 200 169936
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /telangana-news.aspx HTTP/1.1" 200 163547
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /national-international/national-international-news.aspx HTTP/1.1" 200 96647
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 50687
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=hyderabad HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=karimnagar HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=khammam HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=medak HTTP/1.1" 200 50691
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=mahabubnagar HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nalgonda HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nizamabad HTTP/1.1" 200 50691
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=badradri HTTP/1.1" 200 50691
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jagtial HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jangaon HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jayashankar HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 169936
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169872
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169889
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169889
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169889
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169913
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 169913
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 93045
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 92985
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 30400
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=3 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /../videos/video-gallery.aspx?videoid=4105 HTTP/1.1" 403 312
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /latest-movie-news.aspx?item=gossips&no=191 HTTP/1.1" 404 3235
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /http://gallery.eenadu.net/cinema-photo-gallery.aspx?galleryid=1779 HTTP/1.1" 400 3402
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=11 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=15 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=14 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=7 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news.aspx?item=crime-news&no=9 HTTP/1.1" 404 3221
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /telangana-news-inner.aspx?category=home&item=break59 HTTP/1.1" 200 126543

@@ -26,7 +26,7 @@ def scrape():
     logging.info('entered scrape function')
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts where
-            paper = 'andhra jyothi'""" #+ """ and s_no = 827"""
+            paper = 'andhra jyothi'""" #+ """ and s_no = 550"""
     cursor.execute(query1)
     items = cursor.fetchall()
     for item in items:
@@ -44,7 +44,7 @@ def scrape():
             display_title = display_title.encode('utf-8')
         except AttributeError:
             logging.error('some AttributeError got in scraping function')
-            continue
+            pass
         print display_title
         try:
             img_url = soup.find('img', {'id':'ContentPlaceHolder1_ImgStoty'})
@@ -52,19 +52,24 @@ def scrape():
             print img_url
         except AttributeError:
             logging.error('some AttributeError got in scraping function')
-            continue
-        contents = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryDetails'}).text
-        print contents
-        shift = contents.find(':')
-        contents = contents[shift + 1:]
-        contents = contents.encode('utf-8')
-        if (len(contents) < 10):
-            contents = soup.find('div', {'id':'pastingspan1'}).text
+            pass
+        try:
+            contents = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryDetails'}).text
+            shift = contents.find(':')
+            contents = contents[shift + 1:]
             contents = contents.encode('utf-8')
+        except AttributeError:
+            logging.error('some AttributeError got in scraping function')
+            pass
+#            print 'special case'
+#            contents = soup.find('div', {'id':'pastingspan1'}).text
+#            contents = contents.encode('utf-8')
         print contents
-        updatequery = "update abn set (display_title, article_content, image_link) = (%s,%s, %s)"
+        updatequery = """update posts set (display_title, article_content,
+        image_link) = (%s,%s, %s) where s_no = """ + str(s_no)
         cursor.execute(updatequery,(display_title, contents, img_url))
         conn.commit()
+        #print 'after commit'
     logging.info('leaving scraping function')
     return True
 

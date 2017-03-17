@@ -11,20 +11,23 @@ from requests import get
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
-conn = connect(database="postgres", user="postgres",
+conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
 
 
 def scrape():
     #Change url_inserted_date every week here
-    query1 = """select s_no, newsitem_link from eenadu where s_no > 130"""
+    query1 = """select s_no, newsitem_link from posts where 
+            paper = 'eenadu' and
+            url_inserted_date = current_date""" #+ """ and s_no = 2"""
     cursor.execute(query1)
     items = cursor.fetchall()
     for item in items:
         s_no = item[0]
         url = item[1]
         print url
+        #url = url.split('..')
         if url.startswith('/'):
             url = 'http://www.eenadu.net' + url
         else:
@@ -42,8 +45,9 @@ def scrape():
             #print content
             l = l + content
         print l, len(l)
-        updatequery = "update eenadu set article_content = '" + l + "'"
-        cursor.execute(updatequery)
+        l = l.encode('utf-8')
+        updatequery = "update posts set article_content = %s where s_no = %s"
+        cursor.execute(updatequery,(l, str(s_no)))
         conn.commit() 
     return True
 

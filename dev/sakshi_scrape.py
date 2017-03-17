@@ -11,14 +11,16 @@ from requests import get
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
-conn = connect(database="postgres", user="postgres",
+conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
 
 
 def scrape():
     #Change url_inserted_date every week here
-    query1 = """select s_no, newsitem_link from sakshi""" #+ """ where s_no = 764"""
+    query1 = """select s_no, newsitem_link from posts 
+    where url_inserted_date = current_date and
+    paper = 'sakshi'""" #+ """ and where s_no = 764"""
     cursor.execute(query1)
     items = cursor.fetchall()
     for item in items:
@@ -53,7 +55,8 @@ def scrape():
         contents = contents[left + 1:right]
         contents = contents.encode('utf-8')
         print contents
-        updatequery = "update sakshi set (display_title, article_content, image_link) = (%s,%s, %s)"
+        updatequery = """update posts set (display_title, article_content,
+        image_link) = (%s,%s, %s) where s_no = """ + s_no
         cursor.execute(updatequery,(display_title, contents, img_url))
         conn.commit() 
     return True

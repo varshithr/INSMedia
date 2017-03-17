@@ -89,7 +89,7 @@ def tupaki():
 #        pass
 #    soup=Soup(page.content)
 #    print soup
-    print r"Content updated to the Postgres table 'tupaki'"
+    print r"Content updated to the Postgres table 'posts'"
 
 if __name__ == '__main__':
     tupaki()

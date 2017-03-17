@@ -1,0 +1,2228 @@
+INFO:root:trying to establish a conneciton with database
+DEBUG:root:conncetion establish successfully.
+DEBUG:root:calling main function
+INFO:root:entered into eenadu executable function
+INFO:root:entered into mostread function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 50330
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 93045
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /business/business-news.aspx HTTP/1.1" 200 96863
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /sports/sports.aspx HTTP/1.1" 200 98298
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /movies/latest-movie-news.aspx HTTP/1.1" 200 119823
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /andhra-pradesh-news.aspx HTTP/1.1" 200 161686
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+INFO:root:trying to establish a conneciton with database
+DEBUG:root:conncetion establish successfully.
+DEBUG:root:calling main function
+INFO:root:entered into eenadu executable function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 92985
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:entered into mostread function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 168078
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to establish a conneciton with database
+DEBUG:root:conncetion establish successfully.
+DEBUG:root:calling main function
+INFO:root:entered into eenadu executable function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /crime-news/crime-news.aspx HTTP/1.1" 200 93045
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /business/business-news.aspx HTTP/1.1" 200 96863
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /sports/sports.aspx HTTP/1.1" 200 32211
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /movies/latest-movie-news.aspx HTTP/1.1" 200 37578
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /andhra-pradesh-news.aspx HTTP/1.1" 200 48586
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx HTTP/1.1" 200 50346
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /telangana-news.aspx HTTP/1.1" 200 162682
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /national-international/national-international-news.aspx HTTP/1.1" 200 97183
+INFO:root:entered into slider function
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=adilabad HTTP/1.1" 200 50369
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=hyderabad HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=karimnagar HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=khammam HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=medak HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=mahabubnagar HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nalgonda HTTP/1.1" 200 50368
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nizamabad HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=badradri HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jagtial HTTP/1.1" 200 50368
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jangaon HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jayashankar HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=jogulamba HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=kamareddy HTTP/1.1" 200 50368
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=komarambheem HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=mahabubabad HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=mancherial HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nagarkurnool HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nirmal HTTP/1.1" 200 50370
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=peddapalle HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=rajanna HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=sangareddi HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=siddipet HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=suryapet HTTP/1.1" 200 50372
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=vikarabad HTTP/1.1" 200 50372
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=wanaparthy HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=warangalrural HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=warangalurban HTTP/1.1" 200 50373
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=yadadri HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=amaravati HTTP/1.1" 200 50372
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=anantapur HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=chittoor HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=eastgodavari HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=guntur HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=kadapa HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=krishna HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=kurnool HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=nellore HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=prakasam HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=srikakulam HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=visakhapatnam HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=vizianagaram HTTP/1.1" 200 168204
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET /home.aspx/district/main.aspx?dsname=westgodavari HTTP/1.1" 200 50370
+INFO:root:entered into slider function
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+DEBUG:root:trying to scrape from eenadu_urlcapture
+ERROR:root:got IndexError error in eenadu_urlcapture
+INFO:root:entered into hotnews function
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:entered into mostread function
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.eenadu.net
+DEBUG:requests.packages.urllib3.connectionpool:http://www.eenadu.net:80 "GET / HTTP/1.1" 200 168078
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
+INFO:root:trying to insert each row into database. 
