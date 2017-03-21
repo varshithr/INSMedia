@@ -17,23 +17,30 @@ from BeautifulSoup import BeautifulSoup as Soup
 from requests import get
 from psycopg2 import connect
 from datetime import date
+import logging
 
+logging.basicConfig(filename = 'oneindia_scrape.log',level=logging.DEBUG)
+
+logging.debug('trying to establish a database connection')
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
+logging.info('connection established successfully')
 today = date.today()
 
 
-
 def insertoi(newsitem_link, display_title, image_link):
+    logging.info('entered into insertoi to insert the details into db')
     paper = 'oneindia'
     query = """INSERT INTO posts (newsitem_link, display_title,
             image_link, url_inserted_date, paper) values (%s,%s,%s,%s,%s)"""
     cursor.execute(query,(newsitem_link, display_title, image_link, today, paper))
     conn.commit()
+    logging.debug('successfully inserted into db')
 
 
 def scrape():
+    logging.info('entered into scrape in oneindia_url_capture')
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts 
     where url_inserted_date = current_date and
@@ -59,17 +66,21 @@ def scrape():
         updatequery = """update posts set (article_content, 
         classifier) = (%s,%s) where s_no = %s"""
         cursor.execute(updatequery,(contents, classifier, str(s_no)))
-        conn.commit() 
+        conn.commit()
+    logging.debug('leaving the function scrape')
     return True
 
 def oneindia_scrape():
+    logging.info('entered into oneindia_scrape function')
     result = scrape()
     if not result:
          print 'There was an error!'
     else:
          print (r"scrape job for the site http://telugu.oneindia.com has been done")
+    logging.info('leaving the oneindia_scrape function')
 
 def oneindia():
+    logging.info('entered into oneindia function')
     resp = get('http://telugu.oneindia.com/sitemap-latest.xml')
 	# we didn't get a valid response, bail
     if 200 != resp.status_code:
@@ -88,7 +99,9 @@ def oneindia():
         if df_lastmod != today :
             break
     print r"Content updated to the Postgres table 'posts'"
+    loggin.debug('leaving oneindia function')
 
 if __name__ == '__main__':
+    logging.info('calling oneindia function and oneindia_scrape function')
     oneindia()
     oneindia_scrape()

@@ -19,14 +19,21 @@ from BeautifulSoup import BeautifulSoup as Soup
 from requests import get
 from psycopg2 import connect
 from datetime import date
+import logging
 
+logging.basicConfig(filename='ga_url_capture.log',level=logging.DEBUG)
+
+
+logging.debug('trying to establish a connection with database')
 conn = connect(database="insmedia", user="postgres",
                          password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
+logging.info('connection established successfully')
 url = 'http://telugu.greatandhra.com/index.php'
 today = date.today()
 
 def hotnews():
+    logging.debug('entered into hotnews in ga_url_capture')
     page = get(url)
     print url
     if 200 != page.status_code:
@@ -44,10 +51,11 @@ def hotnews():
         print newsitem_link, display_title,  classifier
         insertga(newsitem_link, display_title,  classifier)
     del lis,soup
-    
+    logging.debug('exiting from hotnews in ga_url_capture')
     return True
 
 def othernews(page):
+    logging.info('entered othernews in ga_url_capture')
     soup=Soup(page.content)
     hotnews = soup.find('div',{'class':'content'})
     classifier = soup.find('div',{'class':'header'}).text.strip()
@@ -61,17 +69,20 @@ def othernews(page):
         insertga(newsitem_link, display_title,  classifier)
     del lis,soup
     
-    
+    logging.debug('leaving the othernews function in ga_url_capture')
     return True
 
 def insertga(newsitem_link, display_title,  classifier):
+    logging.info('entered insertga')
     paper = 'greatandhra'
     query = """INSERT INTO posts (newsitem_link, display_title,
             classifier, url_inserted_date, paper) values (%s,%s,%s,%s,%s)"""
     cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
     conn.commit()
+    logging.debug('inserting the details into databases is done')
 
 def ga():
+    logging.info('this is the main function of ga_url_capture')
     result = hotnews()
     if not result:
              pass
@@ -90,4 +101,5 @@ def ga():
     print r"Content updated to the Postgres table 'posts'"
 
 if __name__ == '__main__':
+    logging.info('calling the main function ga()')
     ga()
