@@ -12,7 +12,9 @@ import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 import logging
 
-logging.basicConfig(filename='eenadu_scrape.log',level=logging.DEBUG)
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
+
+logging.basicConfig(filename=path+'/'+'eenadu_scrape.log',level=logging.DEBUG)
 
 
 logging.info('trying to establish connection with database')

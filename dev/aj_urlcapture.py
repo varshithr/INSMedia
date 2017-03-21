@@ -18,8 +18,9 @@ from requests import get
 from psycopg2 import connect
 from datetime import date
 import logging
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 
-logging.basicConfig(filename='aj_urlcapture.log',level=logging.DEBUG)
+logging.basicConfig(filename=path+'/'+'aj_urlcapture.log',level=logging.DEBUG)
 
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")

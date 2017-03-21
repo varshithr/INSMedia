@@ -13,7 +13,9 @@ import logging
 
 requests.packages.urllib3.disable_warnings()
 
-logging.basicConfig(filename='aj_scrape',level=logging.DEBUG)
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
+
+logging.basicConfig(filename=path+'/'+'aj_scrape.log',level=logging.DEBUG)
 
 logging.info('trying to estabish connection with database')
 conn = connect(database="insmedia", user="postgres",

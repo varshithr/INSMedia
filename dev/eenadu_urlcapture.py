@@ -18,7 +18,9 @@ from requests import get
 from psycopg2 import connect
 from datetime import date
 import logging
-logging.basicConfig(filename='eenadu_urlcapture.log',level=logging.DEBUG)
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
+
+logging.basicConfig(filename=path+'/'+'eenadu_urlcapture.log',level=logging.DEBUG)
 
 logging.info('trying to establish a conneciton with database')
 conn = connect(database="insmedia", user="postgres",

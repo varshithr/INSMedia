@@ -1,0 +1,10 @@
+INFO:root:establishing a database connection
+DEBUG:root:connection established successfully
+INFO:root:calling the main function in sakshi_scrape
+INFO:root:this is sakshi_scrape main function
+INFO:root:entered into scrape function in sakshi_scrape
+INFO:root:establishing a database connection
+DEBUG:root:connection established successfully
+INFO:root:calling the main function in sakshi_scrape
+INFO:root:this is sakshi_scrape main function
+INFO:root:entered into scrape function in sakshi_scrape

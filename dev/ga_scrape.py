@@ -12,7 +12,9 @@ import requests.packages.urllib3
 import logging
 requests.packages.urllib3.disable_warnings()
 
-logging.basicConfig(filename='ga_scrape.log',level=logging.DEBUG)
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
+
+logging.basicConfig(filename=path+'/'+'ga_scrape.log',level=logging.DEBUG)
 
 logging.info('connecting to database from ga_scrape')
 conn = connect(database="insmedia", user="postgres",
