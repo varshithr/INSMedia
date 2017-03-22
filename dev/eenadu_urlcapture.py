@@ -18,6 +18,8 @@ from requests import get
 from psycopg2 import connect
 from datetime import date
 import logging
+import os
+
 path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 
 logging.basicConfig(filename=path+'/'+'eenadu_urlcapture.log',level=logging.DEBUG)
