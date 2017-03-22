@@ -44,7 +44,7 @@ def scrape():
         else:
             url = 'http://www.eenadu.net/' + url
         print s_no, url
-        logging.debug(str(s_no),url)
+        logging.debug(str(s_no)+url)
         page = get(url)
         if 200 != page.status_code:
             print 'failed getting site url data ' + url
