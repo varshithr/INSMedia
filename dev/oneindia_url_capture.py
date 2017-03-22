@@ -20,7 +20,9 @@ from datetime import date
 import logging
 import os
 
-logging.basicConfig(filename = 'oneindia_scrape.log',level=logging.DEBUG)
+path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
+
+logging.basicConfig(filename = path+'/'+ 'oneindia_scrape.log',level=logging.DEBUG)
 
 logging.debug('trying to establish a database connection')
 conn = connect(database="insmedia", user="postgres",
@@ -100,7 +102,7 @@ def oneindia():
         if df_lastmod != today :
             break
     print r"Content updated to the Postgres table 'posts'"
-    loggin.debug('leaving oneindia function')
+    logging.debug("Content updated to the Postgres table 'posts'")
 
 if __name__ == '__main__':
     logging.info('calling oneindia function and oneindia_scrape function')

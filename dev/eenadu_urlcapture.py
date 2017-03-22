@@ -47,6 +47,7 @@ def slider(page,sliderpage):
     #figures = soup.findAll('figure', class_ = "owl-item")
     # no figures? bail
     if not figures:
+        logging.info('no slider images exist in the link ' + url)
         print 'no slider images exist in the link ' + url
         return False
     print url
@@ -132,6 +133,7 @@ def mostread():
     page = get(url)
     print url
     if 200 != page.status_code:
+        logging.debug('failed getting data of page ' + url)
         print 'failed getting data of page ' + url
         return False
     classifier = 'mostread'
@@ -150,6 +152,7 @@ def mostread():
         print newsitem_link, display_title,  classifier
         inserteenadu(newsitem_link, display_title,  classifier)
     del lis,soup
+    logging.info('leaving mostread function')
     return True
 
 def inserteenadu(newsitem_link, display_title,  classifier):
@@ -174,6 +177,7 @@ def eenadu():
         page = get(url[0])
         print url[0]
         if 200 != page.status_code:
+            logging.error('failed getting data of page ' + url)
             print 'failed getting data of page ' + url
             continue
         result = slider(page,url[1])
@@ -183,6 +187,7 @@ def eenadu():
     result = mostread()
     if not result:
              pass
+    logging.info("Content updated to the Postgres table 'eenadu'")
     print r"Content updated to the Postgres table 'eenadu'"
 
 if __name__ == '__main__':
