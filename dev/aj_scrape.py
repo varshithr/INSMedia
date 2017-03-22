@@ -10,6 +10,7 @@ from psycopg2 import connect
 from requests import get
 import requests.packages.urllib3
 import logging
+import os
 
 requests.packages.urllib3.disable_warnings()
 

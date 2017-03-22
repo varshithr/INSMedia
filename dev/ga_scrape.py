@@ -11,6 +11,7 @@ from requests import get
 import requests.packages.urllib3
 import logging
 requests.packages.urllib3.disable_warnings()
+import os
 
 path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 
@@ -72,7 +73,9 @@ def ga_scrape():
     if not result:
          print 'There was an error!'
     else:
-         print (r"scrape job for the site www.greatandhra.com has been done")
+
+        logging.info("scrape job for the site www.greatandhra.com has been done")
+        print (r"scrape job for the site www.greatandhra.com has been done")
 
 if __name__ == '__main__':
     logging.debug('calling the main function')

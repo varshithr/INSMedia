@@ -10,6 +10,8 @@ from psycopg2 import connect
 from requests import get
 import requests.packages.urllib3
 from requests.auth import HTTPProxyAuth
+import os
+
 requests.packages.urllib3.disable_warnings()
 
 conn = connect(database="insmedia", user="postgres",

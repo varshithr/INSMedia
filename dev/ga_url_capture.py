@@ -20,6 +20,7 @@ from requests import get
 from psycopg2 import connect
 from datetime import date
 import logging
+import os
 
 logging.basicConfig(filename='ga_url_capture.log',level=logging.DEBUG)
 

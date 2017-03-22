@@ -11,6 +11,7 @@ from requests import get
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 import logging
+import os
 
 path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 

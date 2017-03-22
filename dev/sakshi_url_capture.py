@@ -17,6 +17,10 @@ from BeautifulSoup import BeautifulSoup as Soup
 from requests import get
 from psycopg2 import connect
 from datetime import date
+import os
+
+path=getcwd()
+
 
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
