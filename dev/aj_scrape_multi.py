@@ -12,7 +12,6 @@ import requests.packages.urllib3
 import logging
 import os
 from concurrent.futures import ProcessPoolExecutor
-import time
 
 requests.packages.urllib3.disable_warnings()
 
@@ -29,7 +28,11 @@ logging.debug('connection estabished successfully')
 def scraper(item):
         s_no = item[0]
         url = item[1]
-        url = 'http://www.andhrajyothy.com/' + url
+        if 'cinema_article' in url:
+            no = url.split('=')[-1]
+            url = 'http://www.andhrajyothy.com/pages/cinema_article?SID=' + no
+        else:
+            url = 'http://www.andhrajyothy.com/' + url
         print s_no, url
         page = get(url)
         if 200 != page.status_code:
@@ -72,7 +75,7 @@ def scrape():
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts where 
             paper = 'andhra jyothi' and
-            url_inserted_date = current_date""" + """ and s_no = 11789"""
+            url_inserted_date = current_date""" #+ """ and s_no = 12106"""
     cursor.execute(query1)
     items = cursor.fetchall()
     e = ProcessPoolExecutor()
@@ -89,7 +92,6 @@ def aj_scrape():
          print (r"scrape job for the site www.andhrajyothy.com has been done")
 
 if __name__ == '__main__':
-    start = time.clock()
     logging.info('aj_scrape main function')
     aj_scrape()
-    print time.clock() - start
+    
