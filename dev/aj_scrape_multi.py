@@ -11,6 +11,7 @@ from requests import get
 import requests.packages.urllib3
 import logging
 import os
+from concurrent.futures import ProcessPoolExecutor
 
 requests.packages.urllib3.disable_warnings()
 
@@ -24,16 +25,7 @@ conn = connect(database="insmedia", user="postgres",
 cursor = conn.cursor()
 logging.debug('connection estabished successfully')
 
-
-def scrape():
-    logging.info('entered scrape function')
-    #Change url_inserted_date every week here
-    query1 = """select s_no, newsitem_link from posts where 
-            paper = 'andhra jyothi' and
-            url_inserted_date = current_date""" #+ """ and s_no = 12106"""
-    cursor.execute(query1)
-    items = cursor.fetchall()
-    for item in items:
+def scraper(item):
         s_no = item[0]
         url = item[1]
         if 'cinema_article' in url:
@@ -45,7 +37,7 @@ def scrape():
         page = get(url)
         if 200 != page.status_code:
             print 'failed getting site url data ' + url
-            continue
+            return
         soup = Soup(page.content)
         try:
             display_title = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryHeadLine'}).text
@@ -77,7 +69,17 @@ def scrape():
         image_link) = (%s,%s, %s) where s_no = """ + str(s_no)
         cursor.execute(updatequery,(display_title, contents, img_url))
         conn.commit()
-        #print 'after commit'
+
+def scrape():
+    logging.info('entered scrape function')
+    #Change url_inserted_date every week here
+    query1 = """select s_no, newsitem_link from posts where 
+            paper = 'andhra jyothi' and
+            url_inserted_date = current_date""" #+ """ and s_no = 12106"""
+    cursor.execute(query1)
+    items = cursor.fetchall()
+    e = ProcessPoolExecutor()
+    e.map(scraper, items)
     logging.info('leaving scraping function')
     return True
 
@@ -92,3 +94,4 @@ def aj_scrape():
 if __name__ == '__main__':
     logging.info('aj_scrape main function')
     aj_scrape()
+    
