@@ -30,14 +30,14 @@ def feeditems(item):
         display_title = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryHeadLine'}).text
         display_title = display_title.encode('utf-8')
     except AttributeError:
-        continue
+        pass
     print display_title
     try:
         img_url = soup.find('img', {'id':'ContentPlaceHolder1_ImgStoty'})
         img_url = img_url.get('src')
         print img_url
     except AttributeError:
-        continue
+        pass
     contents = soup.find('span', {'id':'ContentPlaceHolder1_lblStoryDetails'}).text
     print contents
     shift = contents.find(':')

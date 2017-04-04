@@ -48,7 +48,7 @@ def feeditems(item):
         contents = soup.find('div', {'class':'content'}).text
     except AttributeError:
         logging.error('got AttributeError in ga_scrape while scraping the content')
-        continue
+        pass
 
     left = contents.find('Go to www')
     contents = contents[:left]

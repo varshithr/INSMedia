@@ -19,6 +19,7 @@ from psycopg2 import connect
 from datetime import date
 import logging
 import os
+from concurrent.futures import ProcessPoolExecutor
 
 path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 
@@ -41,6 +42,26 @@ def insertoi(newsitem_link, display_title, image_link):
     conn.commit()
     logging.debug('successfully inserted into db')
 
+def scraper(item):
+    s_no = item[0]
+    url = item[1]
+    print s_no, url
+    page = get(url)
+    if 200 != page.status_code:
+        print 'failed getting site url data ' + url
+        return
+    soup = Soup(page.content)
+    contents = soup.find('div', {'class':'ecom-ad-content'}).text
+    contents = contents.encode('utf-8')
+    print contents
+    classifier = soup.find('div', {'class':'breadcrump clearfix'})
+    classifier = classifier.get('data-category')
+    classifier = classifier.encode('utf-8')
+    print classifier
+    updatequery = """update posts set (article_content, 
+    classifier) = (%s,%s) where s_no = %s"""
+    cursor.execute(updatequery,(contents, classifier, str(s_no)))
+    conn.commit()
 
 def scrape():
     logging.info('entered into scrape in oneindia_url_capture')
@@ -50,26 +71,8 @@ def scrape():
     paper = 'oneindia'""" #+ """ and where s_no = 764"""
     cursor.execute(query1)
     items = cursor.fetchall()
-    for item in items:
-        s_no = item[0]
-        url = item[1]
-        print s_no, url
-        page = get(url)
-        if 200 != page.status_code:
-            print 'failed getting site url data ' + url
-            continue
-        soup = Soup(page.content)
-        contents = soup.find('div', {'class':'ecom-ad-content'}).text
-        contents = contents.encode('utf-8')
-        print contents
-        classifier = soup.find('div', {'class':'breadcrump clearfix'})
-        classifier = classifier.get('data-category')
-        classifier = classifier.encode('utf-8')
-        print classifier
-        updatequery = """update posts set (article_content, 
-        classifier) = (%s,%s) where s_no = %s"""
-        cursor.execute(updatequery,(contents, classifier, str(s_no)))
-        conn.commit()
+    e = ProcessPoolExecutor()
+    e.map(scraper, items)    
     logging.debug('leaving the function scrape')
     return True
 
