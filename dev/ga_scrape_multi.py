@@ -53,6 +53,9 @@ def feeditems(item):
     left = contents.find('Go to www')
     contents = contents[:left]
     print contents
+    conn = connect(database="insmedia", user="postgres",
+                        password="scriptbees1$", host="127.0.0.1", port="5432")
+    cursor = conn.cursor()
     updatequery = """update posts set (article_content,
     image_link) = (%s,%s) where s_no = %s"""
     cursor.execute(updatequery,( contents, img_url, str(s_no)))

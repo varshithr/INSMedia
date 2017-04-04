@@ -51,6 +51,9 @@ def feeditems(item):
     print l, len(l)
     logging.debug(l)
     l = l.encode('utf-8')
+    conn = connect(database="insmedia", user="postgres",
+                        password="scriptbees1$", host="127.0.0.1", port="5432")
+    cursor = conn.cursor()
     updatequery = "update posts set article_content = %s where s_no = %s"
     cursor.execute(updatequery,(l, str(s_no)))
     conn.commit()

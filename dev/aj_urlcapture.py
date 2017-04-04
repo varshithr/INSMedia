@@ -95,15 +95,14 @@ def slider(page,sliderpage):
 def insertabn(newsitem_link, display_title,  classifier):
     try:
         logging.info('entered into insertabn')
-        paper = 'andhra jyothi'
+        paper = 'andhrajyothi'
         query = """INSERT INTO posts (newsitem_link, display_title,
                 classifier, url_inserted_date, paper) values (%s,%s,%s,%s, %s)"""
         cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))
         conn.commit()
 
     except:
-        logging.error('got an error in instering into database')
-
+        logging.error('got an error in instering into database')    
 
 def abn():
     logging.info('this is main function')

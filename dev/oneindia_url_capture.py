@@ -58,6 +58,9 @@ def scraper(item):
     classifier = classifier.get('data-category')
     classifier = classifier.encode('utf-8')
     print classifier
+    conn = connect(database="insmedia", user="postgres",
+                        password="scriptbees1$", host="127.0.0.1", port="5432")
+    cursor = conn.cursor()
     updatequery = """update posts set (article_content, 
     classifier) = (%s,%s) where s_no = %s"""
     cursor.execute(updatequery,(contents, classifier, str(s_no)))

@@ -18,11 +18,11 @@ path=os.path.abspath(os.path.join(os.getcwd(), os.pardir))+'/logs'
 
 requests.packages.urllib3.disable_warnings()
 logging.basicConfig(filename=path+'/'+'sakshi_scrape.log',level=logging.DEBUG)
-
-logging.info('establishing a database connection')
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
+
+logging.info('establishing a database connection')
 logging.debug('connection established successfully')
 
 def feeditems(item):
@@ -63,17 +63,33 @@ def feeditems(item):
     contents = contents[left + 1:right]
     contents = contents.encode('utf-8')
     print contents
+    #update(display_title, contents, img_url, s_no)
+    conn = connect(database="insmedia", user="postgres",
+                        password="scriptbees1$", host="127.0.0.1", port="5432")
+    cursor = conn.cursor()
     updatequery = """update posts set (display_title, article_content,
     image_link) = (%s,%s, %s) where s_no = %s"""
     cursor.execute(updatequery,(display_title, contents, img_url, str(s_no)))
     conn.commit()
+
+def update(display_title, article_content, image_link, s_no):
+    conn = connect(database="insmedia", user="postgres",
+                        password="scriptbees1$", host="127.0.0.1", port="5432")
+    cursor = conn.cursor()
+    updatequery = """update posts set (display_title, article_content,
+    image_link) = (%s,%s, %s) where s_no = %s"""
+    print 'execute cursor', s_no
+    cursor.execute(updatequery,(display_title, article_content, image_link, str(s_no)))
+    print 'b4 commit'
+    conn.commit()
+    print 'after commit'
 
 def scrape():
     logging.info('entered into scrape function in sakshi_scrape')
     #Change url_inserted_date every week here
     query1 = """select s_no, newsitem_link from posts
     where url_inserted_date = current_date and
-    paper = 'sakshi'""" #+ """ and s_no = 3178"""
+    paper = 'sakshi'""" #+ """ and s_no in (45285, 45286, 45287)"""
     cursor.execute(query1)
     items = cursor.fetchall()
     e=ProcessPoolExecutor()
