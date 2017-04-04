@@ -62,7 +62,7 @@ def	waitForLoad(driver):
             return
         
 def inserttupaki(newsitem_link, display_title,  classifier):
-    paper = 'samayam'
+    paper = 'tupaki'
     query = """INSERT INTO posts (newsitem_link, display_title,
             classifier, url_inserted_date, paper) values (%s,%s,%s,%s,%s)"""
     cursor.execute(query,(newsitem_link, display_title, classifier, today, paper))

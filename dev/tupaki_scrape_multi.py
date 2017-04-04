@@ -9,14 +9,14 @@ from BeautifulSoup import BeautifulSoup as Soup
 from psycopg2 import connect
 from requests import get
 import requests.packages.urllib3
-import os
+from concurrent.futures import ProcessPoolExecutor
 
 requests.packages.urllib3.disable_warnings()
 
 conn = connect(database="insmedia", user="postgres",
                         password="scriptbees1$", host="127.0.0.1", port="5432")
 cursor = conn.cursor()
-def feeditems(item):
+def scraper(item):
     s_no = item[0]
     url = item[1]
     url = 'http://www.andhrajyothy.com/' + url
@@ -59,7 +59,8 @@ def scrape():
     where url_inserted_date = current_date and paper = 'tupaki'""" #+ """ and where s_no = 764"""
     cursor.execute(query1)
     items = cursor.fetchall()
-
+    e = ProcessPoolExecutor()
+    e.map(scraper, items)
     return True
 
 def tupaki_scrape():
