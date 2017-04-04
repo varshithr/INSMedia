@@ -111,6 +111,7 @@ def hotnews(page,sliderpage):
              newsitem_link = li.get('href')
              display_title = li.text
              print newsitem_link, display_title,  classifier
+             display_title = display_title.encode('utf-8')
              inserteenadu(newsitem_link, display_title,  classifier)
 
     else:
