@@ -66,7 +66,7 @@ def slider(page,sliderpage):
             text = str(text)
             text = Soup(text)
             display_title = text.find('a').string
-
+            display_title = display_title.encode('utf-8')
             print newsitem_link, display_title, image_link, classifier, today
             paper = 'eenadu'
             query = """INSERT INTO posts (newsitem_link, display_title,
