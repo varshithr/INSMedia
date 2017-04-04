@@ -12,20 +12,27 @@ from tupaki_scrape import tupaki_scrape
 from samayam_url_capture import samayam
 from oneindia_url_capture import oneindia
 from oneindia_url_capture import oneindia_scrape
+from concurrent.futures import ProcessPoolExecutor
 from sakshi_scrape import sakshi_scrape
 
+def callfunc(func):
+    func()
+
+def url_capture():
+    papers = [ sakshi, eenadu, ga, abn, tupaki, samayam, oneindia ]
+    e = ProcessPoolExecutor()
+    e.map(callfunc, papers)
+    return True
+
 if __name__ == '__main__':
-    sakshi()
-    eenadu()
-    ga()
-    abn()
-    tupaki()
-    samayam()
-    oneindia()
     
-    oneindia_scrape()
-    aj_scrape()
-    tupaki_scrape()
-    ga_scrape()
-    eenadu_scrape()
-    sakshi_scrape()
+    r = url_capture()
+    if r:
+        oneindia_scrape()
+        aj_scrape()
+        tupaki_scrape()
+        ga_scrape()
+        eenadu_scrape()
+        sakshi_scrape()
+    else:
+        print 'scraping failed'
