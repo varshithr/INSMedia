@@ -101,8 +101,14 @@ def oneindia():
         newsitem_link = u.find('loc').string
         lastmod = u.find('lastmod').string
         df_lastmod = date(int(lastmod[:4]),int(lastmod[5:7]),int(lastmod[8:10]))
-        image_link = u.find('image:loc').string
-        display_title = u.find('image:title').string
+        try:    
+            image_link = u.find('image:loc').string
+        except AttributeError:
+            image_link = ''
+        try:
+            display_title = u.find('image:title').string
+        except AttributeError:
+            display_title = ''                                  
         print newsitem_link, image_link, display_title
         insertoi(newsitem_link, display_title,  image_link)
         if df_lastmod != today :

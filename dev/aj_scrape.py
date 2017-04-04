@@ -85,7 +85,7 @@ def aj_scrape():
     logging.info('entered into aj_scrape function')
     result = scrape()
     if not result:
-         print 'There was an error!'
+         print ('There was an error!')
     else:
          print (r"scrape job for the site www.andhrajyothy.com has been done")
 

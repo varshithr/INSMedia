@@ -181,8 +181,8 @@ def eenadu():
         page = get(url[0])
         print url[0]
         if 200 != page.status_code:
-            logging.error('failed getting data of page ' + url)
-            print 'failed getting data of page ' + url
+            logging.error('failed getting data of page ' + url[0])
+            print 'failed getting data of page ' + url[0]
             continue
         result = slider(page,url[1])
         result = hotnews(page,url[1])
