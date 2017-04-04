@@ -152,6 +152,7 @@ def mostread():
         if newsitem_link.startswith('..'):
             newsitem_link = newsitem_link.strip('..')[-1]
         display_title = most.text
+        display_title = display_title.encode('utf-8')
         print newsitem_link, display_title,  classifier
         inserteenadu(newsitem_link, display_title,  classifier)
     del lis,soup
